@@ -8,10 +8,10 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Email: chirag [dot] wadhwa [at] ed [dot] ac [dot] uk</p>
-    <p>[Google Scholar](https://scholar.google.com/citations?user=RMdfD1gAAAAJ)</p>
-    <p>[X (formerly Twitter)](https://x.com/emoseW_)</p>
-    <p>[Bluesky](https://bsky.app/profile/emose.bsky.social)</p>
+    <p>Email: chirag.wadhwa at ed dot ac dot uk </p>
+    <p> <a href = "https://scholar.google.com/citations?user=RMdfD1gAAAAJ">Google Scholar </a> </p>
+    <p> <a href = "https://x.com/emoseW_">X (formerly Twitter)</a>[X (formerly Twitter)]</p>
+    <p> <a href = "https://bsky.app/profile/emose.bsky.social"> Bluesky </a></p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
