@@ -2,12 +2,11 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
@@ -18,7 +17,7 @@ I am a second-year PhD student in the School of Informatics, University of Edinb
 
 My research mainly focuses on quantum learning theory, but I am broadly interested in various aspects of theoretical computer science and quantum information. 
 
-You can find my [Google Scholar] here(https://scholar.google.com/citations?user=RMdfD1gAAAAJ).
+You can find my Google Scholar here(https://scholar.google.com/citations?user=RMdfD1gAAAAJ).
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
