@@ -6,21 +6,21 @@ permalink: /
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: true # crops the image to make it circular
+  image_circular: false # crops the image to make it circular
+  more_info: >
+    <p>Email: chirag [dot] wadhwa [at] ed [dot] ac [dot] uk</p>
+    <p>[Google Scholar](https://scholar.google.com/citations?user=RMdfD1gAAAAJ)</p>
+    <p>[X (formerly Twitter)](https://x.com/emoseW_)</p>
+    <p>[Bluesky](https://bsky.app/profile/emose.bsky.social)</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+social: false # includes social icons at the bottom of the page
 ---
 
-I am a second-year PhD student in the School of Informatics, University of Edinburgh, United Kingdom. I previously obtained a bachelor's degree in Computer Science and Engineering from the Indian Institute of Technology, Roorkee, India.
+I am a second-year PhD student in the School of Informatics, University of Edinburgh, United Kingdom, advised by [Mina Doosti](https://minadoosti.github.io/) and [Myrto Arapinis](https://homepages.inf.ed.ac.uk/marapini/). I previously obtained a bachelor's degree in Computer Science and Engineering from the Indian Institute of Technology, Roorkee, India.
 
-My research mainly focuses on quantum learning theory, but I am broadly interested in various aspects of theoretical computer science and quantum information. 
-
-You can find my Google Scholar here(https://scholar.google.com/citations?user=RMdfD1gAAAAJ).
-
-<!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
-
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
+My research focuses on quantum learning theory, but I am broadly interested in various aspects of theoretical computer science and quantum information. Topics I'm currently exploring include:
+- Testing and learning about quantum states and processes
+- Quantum learning algorithms and lower bounds under restricted resources 
+- Communication complexity of distributed learning tasks
