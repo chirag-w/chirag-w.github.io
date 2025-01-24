@@ -10,7 +10,7 @@ profile:
   more_info: >
     <p>Email: chirag.wadhwa at ed dot ac dot uk </p>
     <p> <a href = "https://scholar.google.com/citations?user=RMdfD1gAAAAJ">Google Scholar </a> </p>
-    <p> <a href = "https://x.com/emoseW_">X (formerly Twitter)</a>X (formerly Twitter)</p>
+    <p> <a href = "https://x.com/emoseW_">X (formerly Twitter)</a></p>
     <p> <a href = "https://bsky.app/profile/emose.bsky.social"> Bluesky </a></p>
 
 news: true # includes a list of news items
