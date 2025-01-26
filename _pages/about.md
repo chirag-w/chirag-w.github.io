@@ -17,7 +17,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-I am a second-year PhD student in the School of Informatics, University of Edinburgh, United Kingdom, advised by [Mina Doosti](https://minadoosti.github.io/) and [Myrto Arapinis](https://homepages.inf.ed.ac.uk/marapini/). I previously obtained a bachelor's degree in Computer Science and Engineering from the Indian Institute of Technology, Roorkee, India.
+I am a second-year PhD student in the School of Informatics, University of Edinburgh, United Kingdom, advised by [Mina Doosti](https://minadoosti.github.io/) and [Myrto Arapinis](https://homepages.inf.ed.ac.uk/marapini/). I previously obtained a bachelor's degree in Computer Science and Engineering from the Indian Institute of Technology, Roorkee, India in 2023.
 
 My research focuses on quantum learning theory, but I am broadly interested in various aspects of theoretical computer science and quantum information. Topics I'm currently exploring include:
 - Testing and learning about quantum states and processes
