@@ -19,4 +19,4 @@ social: false # includes social icons at the bottom of the page
 
 I am a second-year PhD student in the School of Informatics, University of Edinburgh, advised by [Mina Doosti](https://minadoosti.github.io/) and [Myrto Arapinis](https://homepages.inf.ed.ac.uk/marapini/). I previously obtained a bachelor's degree in Computer Science and Engineering from the Indian Institute of Technology, Roorkee in 2023.
 
- I am broadly interested in various aspects of theoretical computer science and quantum information, with a focus on sample complexity bounds for learning and testing quantum states and processes, especially with restricted resources.
+ I am broadly interested in various aspects of theoretical computer science and quantum information, with a focus on learning and testing quantum states and processes.
