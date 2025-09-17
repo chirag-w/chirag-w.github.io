@@ -9,8 +9,9 @@ nav_order: 3
 
 ##### Talks
 - **Instance-Optimal Quantum State Certification with Entangled Measurements**
+	- Invited Talk (Online) at *Scuola Normale Superiore,* Pisa, September 2025.
 	- Invited Talk (Online) at *Seoul National University [QST Seminar](https://sites.google.com/view/team-qst/qst-seminar)* and *Special Guest Lecture at [QICSA Summer School on Quantum Learning and Complexity Theory](https://harris-junseo-lee.github.io/qlct/)*, July 2025.
-	- Invited Talk (Online) at *Eisert Group Quantum Learning Seminar*, July 2025.
+	- Invited Talk (Online) at *Eisert Group Quantum Learning Seminar* (FU Berlin), July 2025.
 	- Lightning Talk at the third workshop on *Foundations of Quantum Computing*, Edinburgh, June 2025.
 	- *Quantum Software Lab Seminar*, University of Edinburgh, May 2025.
 - **Learning Quantum Processes with Quantum Statistical Queries**
