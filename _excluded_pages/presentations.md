@@ -22,6 +22,7 @@ nav_order: 3
 - **Introduction to Quantum Learning Theory**, *Quantum Software Lab Seminar*, University of Edinburgh, February 2024.
 
 ##### Poster Presentations
+- **Instance-Optimal Quantum State Certification with Entangled Measurements**, *QIP 2026*, Riga, January 2026
 - **Agnostic Process Tomography**, *QIP 2025*, Raleigh, February 2025
 - **Learning Quantum Processes with Quantum Statistical Queries**, *QCTiP 2024*, Edinburgh, April 2024
 - **Learning Quantum Processes with Quantum Statistical Queries**, *QIP 2024*, Taipei, January 2024
