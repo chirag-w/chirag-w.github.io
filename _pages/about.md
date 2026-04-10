@@ -23,11 +23,11 @@ I am broadly interested in theoretical computer science and quantum information,
 
 ## Publications
 
-**Optimal Quantum State Testing Even with Limited Entanglement**
+**Optimal Quantum State Testing Even with Limited Entanglement** 
 Chirag Wadhwa, [Sitan Chen](https://www.sitanchen.com/)
 Manuscript, 2026. [[PDF](https://arxiv.org/pdf/2604.07460)]
 
-**Distributed Quantum Property Testing with Communication Constraints**
+**Distributed Quantum Property Testing with Communication Constraints** 
 [Mina Doosti](https://minadoosti.github.io/), [Ryan Sweke](https://r-sweke.github.io/), Chirag Wadhwa
 Manuscript, 2026. [[PDF](https://arxiv.org/pdf/2604.05962)]
 
