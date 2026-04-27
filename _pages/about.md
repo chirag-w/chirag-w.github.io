@@ -41,7 +41,7 @@ PRX Quantum 6, 040371 (2025). [[arXiv](https://arxiv.org/abs/2410.11957)] [[Jour
 
 **Learning Quantum Processes with Quantum Statistical Queries**  
 Chirag Wadhwa, [Mina Doosti](https://minadoosti.github.io/)  
-Quantum 9, 1739 (2025). [[arXiv](https://arxiv.org/abs/2310.02075)] [[Journal]](https://quantum-journal.org/papers/q-2025-05-12-1739/)
+Quantum 9, 1739 (2025). [[arXiv](https://arxiv.org/abs/2310.02075)] [[Journal](https://quantum-journal.org/papers/q-2025-05-12-1739/)]
 
 **Noise-tolerant learnability of shallow quantum circuits from statistics and the cost of quantum pseudorandomness**  
 Chirag Wadhwa, [Mina Doosti](https://minadoosti.github.io/)  
@@ -49,4 +49,4 @@ QTML 2024. [[arXiv](https://arxiv.org/abs/2405.12085)]
 
 **Quantum Lock: A Provable Quantum Communication Advantage**  
 Kaushik Chakraborty, [Mina Doosti](https://minadoosti.github.io/), Yao Ma, Chirag Wadhwa, Myrto Arapinis, Elham Kashefi  
-Quantum 7, 1014 (2023). [[arXiv](https://arxiv.org/abs/2110.09469)] [[Journal]](https://quantum-journal.org/papers/q-2023-05-23-1014/)
+Quantum 7, 1014 (2023). [[arXiv](https://arxiv.org/abs/2110.09469)] [[Journal](https://quantum-journal.org/papers/q-2023-05-23-1014/)]
