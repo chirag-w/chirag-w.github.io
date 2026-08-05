@@ -23,8 +23,8 @@ I am broadly interested in theoretical computer science and quantum information,
 
 ## Publications
 
-**Spectrum Estimation is Almost as Hard as Tomography** 
-[Marco Fanizza](https://quriosity.telecom-paris.fr/author/marco-fanizza/), [Ryan O'Donnell](https://www.cs.cmu.edu/~odonnell/), Chirag Wadhwa 
+**Spectrum Estimation is Almost as Hard as Tomography**  
+[Marco Fanizza](https://quriosity.telecom-paris.fr/author/marco-fanizza/), [Ryan O'Donnell](https://www.cs.cmu.edu/~odonnell/), Chirag Wadhwa  
 Manuscript (2026). [[arXiv](https://arxiv.org/abs/2607.29680)]
 
 **Optimal Quantum State Testing Even with Limited Entanglement**  
