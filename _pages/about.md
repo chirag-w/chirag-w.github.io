@@ -19,7 +19,7 @@ social: false # includes social icons at the bottom of the page
 
 I am a final-year PhD student in the School of Informatics, University of Edinburgh, advised by [Mina Doosti](https://minadoosti.github.io/) and [Myrto Arapinis](https://homepages.inf.ed.ac.uk/marapini/). I previously obtained a bachelor's degree in Computer Science and Engineering from the Indian Institute of Technology, Roorkee in 2023.
 
-I am broadly interested in theoretical computer science and quantum information, with a focus on the statistical complexity of learning and testing quantum objects.
+I am broadly interested in theoretical computer science and quantum information, with a focus on the complexity of learning and testing quantum objects.
 
 **Update**: I am on the job market for postdoc positions starting in Fall 2027; please reach out if you have suitable openings!
 
@@ -36,7 +36,7 @@ Manuscript (2026). [[arXiv](https://arxiv.org/abs/2607.29680)]
 
 **Optimal Quantum State Testing Even with Limited Entanglement**  
 Chirag Wadhwa, [Sitan Chen](https://www.sitanchen.com/)  
-Manuscript (2026). [[arXiv](https://arxiv.org/abs/2604.07460)]
+SODA 2027. [[arXiv](https://arxiv.org/abs/2604.07460)]
 
 **Instance-Optimal Quantum State Certitfication with Entangled Measurements**  
 [Ryan O'Donnell](https://www.cs.cmu.edu/~odonnell/), Chirag Wadhwa  
