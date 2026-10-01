@@ -25,6 +25,10 @@ I am broadly interested in theoretical computer science and quantum information,
 
 ## Publications
 
+**Optimal Purity Estimation with Incoherent Measurements**  
+[Junseo Lee](https://harris-junseo-lee.github.io/), Chirag Wadhwa  
+Manuscript. [[arXiv](https://arxiv.org/abs/2609.40248)]
+
 **Distributed Quantum Property Testing with Quantum Carrier Pigeons**  
 Kenny Chen, [Mina Doosti](https://minadoosti.github.io/), [Ryan Sweke](https://r-sweke.github.io/), Chirag Wadhwa  
 Manuscript merging [[DSW26](https://arxiv.org/abs/2604.05962)] and [[Che26](https://arxiv.org/abs/2606.31753)], along with improved and new results.  
@@ -32,7 +36,7 @@ Available on [[arXiv](https://arxiv.org/abs/2609.08864)]
 
 **Spectrum Estimation is Almost as Hard as Tomography**  
 [Marco Fanizza](https://quriosity.telecom-paris.fr/author/marco-fanizza/), [Ryan O'Donnell](https://www.cs.cmu.edu/~odonnell/), Chirag Wadhwa  
-Manuscript (2026). [[arXiv](https://arxiv.org/abs/2607.29680)]
+Manuscript. [[arXiv](https://arxiv.org/abs/2607.29680)]
 
 **Optimal Quantum State Testing Even with Limited Entanglement**  
 Chirag Wadhwa, [Sitan Chen](https://www.sitanchen.com/)  
