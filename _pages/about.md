@@ -25,7 +25,7 @@ I am broadly interested in theoretical computer science and quantum information,
 
 ## Selected Publications
 
-See [here](https://chirag-w.github.io/publications) for a full list.
+See [here](https://chirag-w.github.io/publications) for the full list.
 
 **Optimal Quantum State Testing Even with Limited Entanglement**  
 Chirag Wadhwa, [Sitan Chen](https://www.sitanchen.com/)  
