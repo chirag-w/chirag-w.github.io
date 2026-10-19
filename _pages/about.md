@@ -38,3 +38,7 @@ STOC 2026, TQC 2026. [[arXiv](https://arxiv.org/abs/2507.06010)]
 **Agnostic Process Tomography**  
 Chirag Wadhwa, Laura Lewis, Elham Kashefi, [Mina Doosti](https://minadoosti.github.io/)  
 PRX Quantum 6, 040371 (2025). [[arXiv](https://arxiv.org/abs/2410.11957)] [[Journal](https://journals.aps.org/prxquantum/abstract/10.1103/q2nb-zg9m)]
+
+## Personal
+
+In my spare time, I have recently begun competing in the Pokemon Video Game Championship (VGC) circuit. My performances at major events can be found [here](https://vgchistory.com/players/chirag-wadhwa).

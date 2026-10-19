@@ -7,8 +7,6 @@ nav: true
 nav_order: 2
 ---
 
-## Publications
-
 **Optimal Purity Estimation with Incoherent Measurements**  
 [Junseo Lee](https://harris-junseo-lee.github.io/), Chirag Wadhwa  
 Manuscript. [[arXiv](https://arxiv.org/abs/2609.40248)]
